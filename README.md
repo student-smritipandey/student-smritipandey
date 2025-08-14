@@ -1,4 +1,14 @@
 ## Hi!👋 I'm Smriti Pandey 
+- 🎓 **B.Tech in CSE (AIML)** from *Guru Tegh Bahadur Institute of Technology*.  
+- 💻 Passionate about **Machine Learning, Deep Learning, and AI-powered solutions**.  
+ - 📊 Love working on **Data Visualization** and turning raw data into meaningful insights.  
+- ☕ Runs on coffee and curiosity!
+
+  ## 📌 Fun Facts  
+- 💡 I believe *"Every dataset has a story waiting to be told."*  
+  - 🎵 Music + Coding = Productivity boost!  
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smritipandey.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-pandey-125286305) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandeysmriti130@gmail.com) 
 
